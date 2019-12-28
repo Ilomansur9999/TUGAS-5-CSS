@@ -1,0 +1,35 @@
+div.div_menu {
+	background-color: black;
+	margin-bottom: 10px;
+	color: white;
+	text-transform: uppercase;
+}
+
+a.menu:link {
+	color: white;
+}
+
+a.menu:visited {
+	color: white;
+}
+
+a.menu:hover {
+	color: azure;
+}
+
+div.slider_div {
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+}
+
+
+
+footer {
+	color: white;
+	font-size: 15px;
+	background-color: black;
+	text-align: center;
+}
